@@ -1,9 +1,9 @@
-# Number Guessing Game
+# Guess The Number Game
 
 ---
 
 ## Description
-The Number Guessing Game is a fun and interactive console game where players try to guess a randomly selected number between 1 and 100. Players can choose the difficulty level, which affects the number of attempts they have to guess the correct number.
+The "Guess The Number Game" is a fun and interactive console game where players try to guess a randomly selected number between 1 and 100. Players can choose the difficulty level, which affects the number of attempts they have to guess the correct number.
 
 ## How to Use
 1. Run the program in your Python environment.
@@ -14,7 +14,7 @@ The Number Guessing Game is a fun and interactive console game where players try
 
 ## Example
 ```python
-Welcome to the Number Guessing Game!
+Welcome to Guess The Number Game!
 I'm thinking of a number between 1 and 100.
 (Psst, the correct answer is 42)
 Choose a difficulty. Type 'easy' or 'hard': easy
