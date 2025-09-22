@@ -30,7 +30,7 @@ def set_difficulty():
 # function to handle the game loop
 def game():
     # Choosing a number between 1 and 100
-    print("Welcome to the Number Guessing Game!")
+    print("Welcome to Guess The Number Game!")
     print("I'm thinking of a number between 1 and 100.")
     answer = random.randint(1, 100)
     print(f"(Psst, the correct answer is {answer})")  # For debugging, can be removed later
